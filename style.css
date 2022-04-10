@@ -188,6 +188,8 @@ input, select, textarea {
 			display: none;
 		}
 
+		
+
 	}
 
 	@media screen and (max-width: 736px) {
@@ -199,6 +201,8 @@ input, select, textarea {
 		h3 {
 			font-size: 0.8em;
 		}
+
+		
 
 	}
 
